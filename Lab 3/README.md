@@ -1,1 +1,1 @@
-
+- No hay nota en este lab debido a las dificultades tecnicas que se tuvieron en el desarrollo de este, al TDAcola le faltaba un retorno en el crear cola...... T_T
