@@ -1,2 +1,3 @@
 - Mis implementaciones de los TDA de cada unidad, hechos durante el semestre
 - Diria que gran parte esta incompleto, pero todos tienen la estructura basica y se hacen operaciones sobre eso
+- Ambas partes del TDAGrafo utilizan el TDACola y TDAListaEnlazada para hacer ciertas operaciones
