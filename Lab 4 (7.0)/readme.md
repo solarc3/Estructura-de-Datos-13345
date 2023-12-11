@@ -1,1 +1,2 @@
 - Se evaluo hasta la materia de arboles binarios ordenados (BST)
+- La actividad originalmente no incluia un TDAarbol, se utilizo el que se trabajo en conjunto en las clases 
