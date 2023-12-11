@@ -1,1 +1,1 @@
-- Se evaluao hasta la materia de arboles binarios ordenados (BST)
+- Se evaluo hasta la materia de arboles binarios ordenados (BST)
