@@ -1,0 +1,2 @@
+- Mis implementaciones de los TDA de cada unidad, hechos durante el semestre
+- Diria que gran parte esta incompleto, pero todos tienen la estructura basica y se hacen operaciones sobre eso
